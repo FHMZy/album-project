@@ -8,7 +8,7 @@ new Vue({
           img1: "images/cat couple.jpg",
           img2: "images/cat couple2.jpg",
           img3: "images/cat couple3.jpg",
-          title: "With Sintia",
+          title: "Your",
           isOpen: false,
         },
         {
@@ -29,7 +29,7 @@ new Vue({
           img1: "images/cat sleep.jpg",
           img2: "images/cat sleep2.jpg",
           img3: "images/cat sleep 3.jpg",
-          title: "RPL & TKJ",
+          title: "",
           isOpen: false,
         },
         {
